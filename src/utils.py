@@ -11,5 +11,5 @@ def convert_doc_csv(doc):
 
 
 def convert_csv_doc(csv):
-    logger.info(type(doc))
+    logger.info(type(csv))
     time.sleep(5)

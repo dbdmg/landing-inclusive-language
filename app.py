@@ -30,7 +30,7 @@ if st.button("Vai al tool di annotazione"):
     st.write("TODO: indirizza a Label Studio")
 
 """
-## 🤝 Unisci il tuo **.csv** in un documento Word **.docx**.
+## 🤝 Unisci il tuo **.csv** in un documento Word **.docx**
 """
 
 file = st.file_uploader("Carica un documento CSV dal tuo PC", type=["csv"])
